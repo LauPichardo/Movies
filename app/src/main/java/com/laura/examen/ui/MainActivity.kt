@@ -55,6 +55,10 @@ class MainActivity : AppCompatActivity() {
                 navController.navigate(R.id.directions)
                 true
             }
+            R.id.upload_pictures->{
+                navController.navigate(R.id.upload_pictures)
+                true
+            }
             else -> super.onOptionsItemSelected(item)
 
         }

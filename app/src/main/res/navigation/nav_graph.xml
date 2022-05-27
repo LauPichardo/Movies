@@ -37,5 +37,12 @@
         tools:layout="@layout/fragment_directions">
     </fragment>
 
+    <fragment
+        android:id="@+id/upload_pictures"
+        android:name="com.laura.examen.ui.uploadImage.UploadImageFragment"
+        android:label="@string/upload_pictures"
+        tools:layout="@layout/fragment_upload_images">
+    </fragment>
+
 
 </navigation>

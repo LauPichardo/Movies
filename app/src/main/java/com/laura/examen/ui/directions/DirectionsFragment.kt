@@ -59,7 +59,7 @@ class DirectionsFragment : Fragment(), OnMapReadyCallback {
     }
 
     private fun showMarkers(points: List<LocationPoint>) {
-        var position: LatLng? = null
+
         gMap.clear()
         points.forEach {
             val position = LatLng(

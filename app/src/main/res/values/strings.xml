@@ -18,4 +18,5 @@
     <string name="location_permission_details">We need location permission for store location correctly</string>
     <string name="my_directions">My directions</string>
     <string name="title_activity_maps">Map</string>
+    <string name="upload_pictures">Subir Fotos</string>
 </resources>
