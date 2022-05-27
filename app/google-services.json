@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885794848485",
+    "project_id": "movies-c7705",
+    "storage_bucket": "movies-c7705.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885794848485:android:3bd36c6b59d6ffd69ede0c",
+        "android_client_info": {
+          "package_name": "com.laura.examen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885794848485-494g2ao63rt04m2njtn9610gronp1ue1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2mbNDZRjAnUXYqdtRSR27wEkXy2JPmZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885794848485-494g2ao63rt04m2njtn9610gronp1ue1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
