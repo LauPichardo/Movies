@@ -58,10 +58,6 @@ class DirectionsFragment : Fragment(), OnMapReadyCallback {
         }
     }
 
-    /**
-     * Pinta marcadores en el mapa representando las ubicaciones almacenadas del usuario
-     * @param points puntos con las cordenadas de los marcadores a pintar
-     */
     private fun showMarkers(points: List<LocationPoint>) {
         var position: LatLng? = null
         gMap.clear()
